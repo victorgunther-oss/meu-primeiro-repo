@@ -8,4 +8,4 @@ HTML
 Abra o arquivo index.html em qualquer navegador.
 
 
-Elabora por Victor Martins Günther.
+Elaborado por Victor Martins Günther.
