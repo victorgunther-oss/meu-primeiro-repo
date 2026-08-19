@@ -5,8 +5,7 @@ Projeto criado para praticar versionamento com Git e GITHUB
 HTML
 
 # Como executar
-
 Abra o arquivo index.html em qualquer navegador.
 
-
+# Autoria
 Elaborado por Victor Martins Günther.
